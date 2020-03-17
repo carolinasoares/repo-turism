@@ -1,0 +1,1263 @@
+30-Jan-2020 02:11:52.370 INFORMACIÓN [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+30-Jan-2020 02:11:52.370 INFORMACIÓN [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+30-Jan-2020 02:13:38.110 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+30-Jan-2020 02:13:38.110 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+30-Jan-2020 02:13:38.110 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@57b2afaf')
+30-Jan-2020 02:19:10.948 GRAVE [http-apr-8080-exec-19] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [No se puede compilar la clase para JSP: 
+
+Ha tenido lugar un error en la línea: 162 en el archivo jsp: /CategoriaTipo.jsp
+Syntax error on token "/", delete this token
+159:                                 out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+160:                                 out.println("</form>");
+161:                                 out.println("</td>");
+162:                                /out.println("<td>");
+163:                                 out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ");\" >");
+164:                                 out.print("Eliminar");
+165:                                 out.print("</button>");
+
+
+Stacktrace:] con causa raíz
+ org.apache.jasper.JasperException: No se puede compilar la clase para JSP: 
+
+Ha tenido lugar un error en la línea: 162 en el archivo jsp: /CategoriaTipo.jsp
+Syntax error on token "/", delete this token
+159:                                 out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+160:                                 out.println("</form>");
+161:                                 out.println("</td>");
+162:                                /out.println("<td>");
+163:                                 out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ");\" >");
+164:                                 out.print("Eliminar");
+165:                                 out.print("</button>");
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:198)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:363)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:338)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:580)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:363)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 02:19:37.056 GRAVE [http-apr-8080-exec-17] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [No se puede compilar la clase para JSP: 
+
+Ha tenido lugar un error en la línea: 162 en el archivo jsp: /CategoriaTipo.jsp
+Syntax error on token "/", delete this token
+159:                                 out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+160:                                 out.println("</form>");
+161:                                 out.println("</td>");
+162:                                /out.println("<td>");
+163:                                 out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ");\" >");
+164:                                 out.print("Eliminar");
+165:                                 out.print("</button>");
+
+
+Stacktrace:] con causa raíz
+ org.apache.jasper.JasperException: No se puede compilar la clase para JSP: 
+
+Ha tenido lugar un error en la línea: 162 en el archivo jsp: /CategoriaTipo.jsp
+Syntax error on token "/", delete this token
+159:                                 out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+160:                                 out.println("</form>");
+161:                                 out.println("</td>");
+162:                                /out.println("<td>");
+163:                                 out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ");\" >");
+164:                                 out.print("Eliminar");
+165:                                 out.print("</button>");
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:198)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:363)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:338)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:580)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:363)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 02:19:48.028 GRAVE [http-apr-8080-exec-12] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [No se puede compilar la clase para JSP: 
+
+Ha tenido lugar un error en la línea: 162 en el archivo jsp: /CategoriaTipo.jsp
+Syntax error on token "/", delete this token
+159:                                 out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+160:                                 out.println("</form>");
+161:                                 out.println("</td>");
+162:                                /out.println("<td>");
+163:                                 out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ");\" >");
+164:                                 out.print("Eliminar");
+165:                                 out.print("</button>");
+
+
+Stacktrace:] con causa raíz
+ org.apache.jasper.JasperException: No se puede compilar la clase para JSP: 
+
+Ha tenido lugar un error en la línea: 162 en el archivo jsp: /CategoriaTipo.jsp
+Syntax error on token "/", delete this token
+159:                                 out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+160:                                 out.println("</form>");
+161:                                 out.println("</td>");
+162:                                /out.println("<td>");
+163:                                 out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ");\" >");
+164:                                 out.print("Eliminar");
+165:                                 out.print("</button>");
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:198)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:363)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:338)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:580)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:363)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 02:47:14.586 GRAVE [http-apr-8080-exec-28] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() para servlet EliminarCategoria lanzó excepción
+ java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Integer.java:542)
+	at java.lang.Integer.valueOf(Integer.java:766)
+	at Servlets.ControladoraVisual.eliminarCategoria(ControladoraVisual.java:76)
+	at Servlets.EliminarCategoria.processRequest(EliminarCategoria.java:38)
+	at Servlets.EliminarCategoria.doPost(EliminarCategoria.java:71)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 03:13:49.177 GRAVE [http-apr-8080-exec-69] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [Exception [EclipseLink-7242] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.ValidationException
+Exception Description: An attempt was made to traverse a relationship using indirection that had a null Session.  This often occurs when an entity with an uninstantiated LAZY relationship is serialized and that lazy relationship is traversed after serialization.  To avoid this issue, instantiate the LAZY relationship prior to serialization.] con causa raíz
+ Local Exception Stack: 
+Exception [EclipseLink-7242] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.ValidationException
+Exception Description: An attempt was made to traverse a relationship using indirection that had a null Session.  This often occurs when an entity with an uninstantiated LAZY relationship is serialized and that lazy relationship is traversed after serialization.  To avoid this issue, instantiate the LAZY relationship prior to serialization.
+	at org.eclipse.persistence.exceptions.ValidationException.instantiatingValueholderWithNullSession(ValidationException.java:1021)
+	at org.eclipse.persistence.internal.indirection.UnitOfWorkValueHolder.instantiate(UnitOfWorkValueHolder.java:232)
+	at org.eclipse.persistence.internal.indirection.DatabaseValueHolder.getValue(DatabaseValueHolder.java:89)
+	at org.eclipse.persistence.indirection.IndirectList.buildDelegate(IndirectList.java:252)
+	at org.eclipse.persistence.indirection.IndirectList.getDelegate(IndirectList.java:423)
+	at org.eclipse.persistence.indirection.IndirectList$1.<init>(IndirectList.java:551)
+	at org.eclipse.persistence.indirection.IndirectList.listIterator(IndirectList.java:550)
+	at org.eclipse.persistence.indirection.IndirectList.iterator(IndirectList.java:514)
+	at org.apache.jsp.CategoriaTipo_jsp._jspService(CategoriaTipo_jsp.java:269)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:438)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 03:14:03.285 GRAVE [http-apr-8080-exec-69] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [Exception [EclipseLink-7242] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.ValidationException
+Exception Description: An attempt was made to traverse a relationship using indirection that had a null Session.  This often occurs when an entity with an uninstantiated LAZY relationship is serialized and that lazy relationship is traversed after serialization.  To avoid this issue, instantiate the LAZY relationship prior to serialization.] con causa raíz
+ Local Exception Stack: 
+Exception [EclipseLink-7242] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.ValidationException
+Exception Description: An attempt was made to traverse a relationship using indirection that had a null Session.  This often occurs when an entity with an uninstantiated LAZY relationship is serialized and that lazy relationship is traversed after serialization.  To avoid this issue, instantiate the LAZY relationship prior to serialization.
+	at org.eclipse.persistence.exceptions.ValidationException.instantiatingValueholderWithNullSession(ValidationException.java:1021)
+	at org.eclipse.persistence.internal.indirection.UnitOfWorkValueHolder.instantiate(UnitOfWorkValueHolder.java:232)
+	at org.eclipse.persistence.internal.indirection.DatabaseValueHolder.getValue(DatabaseValueHolder.java:89)
+	at org.eclipse.persistence.indirection.IndirectList.buildDelegate(IndirectList.java:252)
+	at org.eclipse.persistence.indirection.IndirectList.getDelegate(IndirectList.java:423)
+	at org.eclipse.persistence.indirection.IndirectList$1.<init>(IndirectList.java:551)
+	at org.eclipse.persistence.indirection.IndirectList.listIterator(IndirectList.java:550)
+	at org.eclipse.persistence.indirection.IndirectList.iterator(IndirectList.java:514)
+	at org.apache.jsp.CategoriaTipo_jsp._jspService(CategoriaTipo_jsp.java:269)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:438)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 03:14:04.103 GRAVE [http-apr-8080-exec-68] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [Exception [EclipseLink-7242] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.ValidationException
+Exception Description: An attempt was made to traverse a relationship using indirection that had a null Session.  This often occurs when an entity with an uninstantiated LAZY relationship is serialized and that lazy relationship is traversed after serialization.  To avoid this issue, instantiate the LAZY relationship prior to serialization.] con causa raíz
+ Local Exception Stack: 
+Exception [EclipseLink-7242] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.ValidationException
+Exception Description: An attempt was made to traverse a relationship using indirection that had a null Session.  This often occurs when an entity with an uninstantiated LAZY relationship is serialized and that lazy relationship is traversed after serialization.  To avoid this issue, instantiate the LAZY relationship prior to serialization.
+	at org.eclipse.persistence.exceptions.ValidationException.instantiatingValueholderWithNullSession(ValidationException.java:1021)
+	at org.eclipse.persistence.internal.indirection.UnitOfWorkValueHolder.instantiate(UnitOfWorkValueHolder.java:232)
+	at org.eclipse.persistence.internal.indirection.DatabaseValueHolder.getValue(DatabaseValueHolder.java:89)
+	at org.eclipse.persistence.indirection.IndirectList.buildDelegate(IndirectList.java:252)
+	at org.eclipse.persistence.indirection.IndirectList.getDelegate(IndirectList.java:423)
+	at org.eclipse.persistence.indirection.IndirectList$1.<init>(IndirectList.java:551)
+	at org.eclipse.persistence.indirection.IndirectList.listIterator(IndirectList.java:550)
+	at org.eclipse.persistence.indirection.IndirectList.iterator(IndirectList.java:514)
+	at org.apache.jsp.CategoriaTipo_jsp._jspService(CategoriaTipo_jsp.java:269)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:438)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 03:14:04.644 GRAVE [http-apr-8080-exec-72] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [Exception [EclipseLink-7242] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.ValidationException
+Exception Description: An attempt was made to traverse a relationship using indirection that had a null Session.  This often occurs when an entity with an uninstantiated LAZY relationship is serialized and that lazy relationship is traversed after serialization.  To avoid this issue, instantiate the LAZY relationship prior to serialization.] con causa raíz
+ Local Exception Stack: 
+Exception [EclipseLink-7242] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.ValidationException
+Exception Description: An attempt was made to traverse a relationship using indirection that had a null Session.  This often occurs when an entity with an uninstantiated LAZY relationship is serialized and that lazy relationship is traversed after serialization.  To avoid this issue, instantiate the LAZY relationship prior to serialization.
+	at org.eclipse.persistence.exceptions.ValidationException.instantiatingValueholderWithNullSession(ValidationException.java:1021)
+	at org.eclipse.persistence.internal.indirection.UnitOfWorkValueHolder.instantiate(UnitOfWorkValueHolder.java:232)
+	at org.eclipse.persistence.internal.indirection.DatabaseValueHolder.getValue(DatabaseValueHolder.java:89)
+	at org.eclipse.persistence.indirection.IndirectList.buildDelegate(IndirectList.java:252)
+	at org.eclipse.persistence.indirection.IndirectList.getDelegate(IndirectList.java:423)
+	at org.eclipse.persistence.indirection.IndirectList$1.<init>(IndirectList.java:551)
+	at org.eclipse.persistence.indirection.IndirectList.listIterator(IndirectList.java:550)
+	at org.eclipse.persistence.indirection.IndirectList.iterator(IndirectList.java:514)
+	at org.apache.jsp.CategoriaTipo_jsp._jspService(CategoriaTipo_jsp.java:269)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:438)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 18:16:09.499 GRAVE [http-apr-8080-exec-87] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [No se puede compilar la clase para JSP: 
+
+Ha tenido lugar un error en la línea: [14] en el fichero java generado: [C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\work\Catalina\localhost\SistemaDeposito\org\apache\jsp\CategoriaTipo_jsp.java]
+The import java.lang.System.out cannot be resolved
+
+Ha tenido lugar un error en la línea: 150 en el archivo jsp: /CategoriaTipo.jsp
+session cannot be resolved
+147:                         </tr>
+148:                         <%!
+149:                             void cargarTablaCategorias(){
+150:                                 List<Categoria> categorias = (List<Categoria>) session.getAttribute("categorias");
+151:                                 for(Categoria unaCategoria : categorias){
+152:                                     out.println("<tr class=\"text-center\">");
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+
+
+Ha tenido lugar un error en la línea: 152 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+149:                             void cargarTablaCategorias(){
+150:                                 List<Categoria> categorias = (List<Categoria>) session.getAttribute("categorias");
+151:                                 for(Categoria unaCategoria : categorias){
+152:                                     out.println("<tr class=\"text-center\">");
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+154:                                     out.println("<td>"+unaCategoria.getNombre()+"</td>");
+155:                                     out.print("<td>");
+
+
+Ha tenido lugar un error en la línea: 153 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+150:                                 List<Categoria> categorias = (List<Categoria>) session.getAttribute("categorias");
+151:                                 for(Categoria unaCategoria : categorias){
+152:                                     out.println("<tr class=\"text-center\">");
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+154:                                     out.println("<td>"+unaCategoria.getNombre()+"</td>");
+155:                                     out.print("<td>");
+156:                                     out.print("<select>");
+
+
+Ha tenido lugar un error en la línea: 154 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+151:                                 for(Categoria unaCategoria : categorias){
+152:                                     out.println("<tr class=\"text-center\">");
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+154:                                     out.println("<td>"+unaCategoria.getNombre()+"</td>");
+155:                                     out.print("<td>");
+156:                                     out.print("<select>");
+157:                                     List<Tipo> tipos = unaCategoria.getTipos();
+
+
+Ha tenido lugar un error en la línea: 155 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+152:                                     out.println("<tr class=\"text-center\">");
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+154:                                     out.println("<td>"+unaCategoria.getNombre()+"</td>");
+155:                                     out.print("<td>");
+156:                                     out.print("<select>");
+157:                                     List<Tipo> tipos = unaCategoria.getTipos();
+158:                                     for(Tipo unTipo : tipos){
+
+
+Ha tenido lugar un error en la línea: 156 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+154:                                     out.println("<td>"+unaCategoria.getNombre()+"</td>");
+155:                                     out.print("<td>");
+156:                                     out.print("<select>");
+157:                                     List<Tipo> tipos = unaCategoria.getTipos();
+158:                                     for(Tipo unTipo : tipos){
+159:                                         out.println("<option value=\""+ unTipo.getCodigo() +"\">"+ unTipo.getNombre() +"</option>");
+
+
+Ha tenido lugar un error en la línea: 159 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+156:                                     out.print("<select>");
+157:                                     List<Tipo> tipos = unaCategoria.getTipos();
+158:                                     for(Tipo unTipo : tipos){
+159:                                         out.println("<option value=\""+ unTipo.getCodigo() +"\">"+ unTipo.getNombre() +"</option>");
+160:                                     }
+161:                                     out.print("</select>");
+162:                                     out.println("</td>");
+
+
+Ha tenido lugar un error en la línea: 161 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+158:                                     for(Tipo unTipo : tipos){
+159:                                         out.println("<option value=\""+ unTipo.getCodigo() +"\">"+ unTipo.getNombre() +"</option>");
+160:                                     }
+161:                                     out.print("</select>");
+162:                                     out.println("</td>");
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+
+
+Ha tenido lugar un error en la línea: 162 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+159:                                         out.println("<option value=\""+ unTipo.getCodigo() +"\">"+ unTipo.getNombre() +"</option>");
+160:                                     }
+161:                                     out.print("</select>");
+162:                                     out.println("</td>");
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+
+
+Ha tenido lugar un error en la línea: 163 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+160:                                     }
+161:                                     out.print("</select>");
+162:                                     out.println("</td>");
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+
+
+Ha tenido lugar un error en la línea: 164 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+161:                                     out.print("</select>");
+162:                                     out.println("</td>");
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+
+
+Ha tenido lugar un error en la línea: 165 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+162:                                     out.println("</td>");
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+
+
+Ha tenido lugar un error en la línea: 166 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+
+
+Ha tenido lugar un error en la línea: 167 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+
+
+Ha tenido lugar un error en la línea: 168 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+
+
+Ha tenido lugar un error en la línea: 169 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+
+
+Ha tenido lugar un error en la línea: 170 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+
+
+Ha tenido lugar un error en la línea: 171 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+
+
+Ha tenido lugar un error en la línea: 172 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+
+
+Ha tenido lugar un error en la línea: 173 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+
+
+Ha tenido lugar un error en la línea: 174 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+
+
+Ha tenido lugar un error en la línea: 175 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+
+
+Ha tenido lugar un error en la línea: 176 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+
+
+Ha tenido lugar un error en la línea: 177 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+
+
+Ha tenido lugar un error en la línea: 178 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+181:                                     out.println("</td>");
+
+
+Ha tenido lugar un error en la línea: 179 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+181:                                     out.println("</td>");
+182:                                     out.println("</tr>");
+
+
+Ha tenido lugar un error en la línea: 180 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+181:                                     out.println("</td>");
+182:                                     out.println("</tr>");
+183:                                 }
+
+
+Ha tenido lugar un error en la línea: 181 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+181:                                     out.println("</td>");
+182:                                     out.println("</tr>");
+183:                                 }
+184:                             } 
+
+
+Ha tenido lugar un error en la línea: 182 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+181:                                     out.println("</td>");
+182:                                     out.println("</tr>");
+183:                                 }
+184:                             } 
+185:                                 
+
+
+Stacktrace:] con causa raíz
+ org.apache.jasper.JasperException: No se puede compilar la clase para JSP: 
+
+Ha tenido lugar un error en la línea: [14] en el fichero java generado: [C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\work\Catalina\localhost\SistemaDeposito\org\apache\jsp\CategoriaTipo_jsp.java]
+The import java.lang.System.out cannot be resolved
+
+Ha tenido lugar un error en la línea: 150 en el archivo jsp: /CategoriaTipo.jsp
+session cannot be resolved
+147:                         </tr>
+148:                         <%!
+149:                             void cargarTablaCategorias(){
+150:                                 List<Categoria> categorias = (List<Categoria>) session.getAttribute("categorias");
+151:                                 for(Categoria unaCategoria : categorias){
+152:                                     out.println("<tr class=\"text-center\">");
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+
+
+Ha tenido lugar un error en la línea: 152 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+149:                             void cargarTablaCategorias(){
+150:                                 List<Categoria> categorias = (List<Categoria>) session.getAttribute("categorias");
+151:                                 for(Categoria unaCategoria : categorias){
+152:                                     out.println("<tr class=\"text-center\">");
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+154:                                     out.println("<td>"+unaCategoria.getNombre()+"</td>");
+155:                                     out.print("<td>");
+
+
+Ha tenido lugar un error en la línea: 153 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+150:                                 List<Categoria> categorias = (List<Categoria>) session.getAttribute("categorias");
+151:                                 for(Categoria unaCategoria : categorias){
+152:                                     out.println("<tr class=\"text-center\">");
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+154:                                     out.println("<td>"+unaCategoria.getNombre()+"</td>");
+155:                                     out.print("<td>");
+156:                                     out.print("<select>");
+
+
+Ha tenido lugar un error en la línea: 154 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+151:                                 for(Categoria unaCategoria : categorias){
+152:                                     out.println("<tr class=\"text-center\">");
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+154:                                     out.println("<td>"+unaCategoria.getNombre()+"</td>");
+155:                                     out.print("<td>");
+156:                                     out.print("<select>");
+157:                                     List<Tipo> tipos = unaCategoria.getTipos();
+
+
+Ha tenido lugar un error en la línea: 155 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+152:                                     out.println("<tr class=\"text-center\">");
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+154:                                     out.println("<td>"+unaCategoria.getNombre()+"</td>");
+155:                                     out.print("<td>");
+156:                                     out.print("<select>");
+157:                                     List<Tipo> tipos = unaCategoria.getTipos();
+158:                                     for(Tipo unTipo : tipos){
+
+
+Ha tenido lugar un error en la línea: 156 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+153:                                     out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+154:                                     out.println("<td>"+unaCategoria.getNombre()+"</td>");
+155:                                     out.print("<td>");
+156:                                     out.print("<select>");
+157:                                     List<Tipo> tipos = unaCategoria.getTipos();
+158:                                     for(Tipo unTipo : tipos){
+159:                                         out.println("<option value=\""+ unTipo.getCodigo() +"\">"+ unTipo.getNombre() +"</option>");
+
+
+Ha tenido lugar un error en la línea: 159 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+156:                                     out.print("<select>");
+157:                                     List<Tipo> tipos = unaCategoria.getTipos();
+158:                                     for(Tipo unTipo : tipos){
+159:                                         out.println("<option value=\""+ unTipo.getCodigo() +"\">"+ unTipo.getNombre() +"</option>");
+160:                                     }
+161:                                     out.print("</select>");
+162:                                     out.println("</td>");
+
+
+Ha tenido lugar un error en la línea: 161 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+158:                                     for(Tipo unTipo : tipos){
+159:                                         out.println("<option value=\""+ unTipo.getCodigo() +"\">"+ unTipo.getNombre() +"</option>");
+160:                                     }
+161:                                     out.print("</select>");
+162:                                     out.println("</td>");
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+
+
+Ha tenido lugar un error en la línea: 162 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+159:                                         out.println("<option value=\""+ unTipo.getCodigo() +"\">"+ unTipo.getNombre() +"</option>");
+160:                                     }
+161:                                     out.print("</select>");
+162:                                     out.println("</td>");
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+
+
+Ha tenido lugar un error en la línea: 163 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+160:                                     }
+161:                                     out.print("</select>");
+162:                                     out.println("</td>");
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+
+
+Ha tenido lugar un error en la línea: 164 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+161:                                     out.print("</select>");
+162:                                     out.println("</td>");
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+
+
+Ha tenido lugar un error en la línea: 165 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+162:                                     out.println("</td>");
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+
+
+Ha tenido lugar un error en la línea: 166 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+163:                                     out.println("<td>");
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+
+
+Ha tenido lugar un error en la línea: 167 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+164:                                     out.println("<form action=\"ObtenerTipos\" method=\"POST\" name=\"obtener_tipos\">");
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+
+
+Ha tenido lugar un error en la línea: 168 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+165:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+
+
+Ha tenido lugar un error en la línea: 169 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+166:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+
+
+Ha tenido lugar un error en la línea: 170 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+167:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"gestionar_tipos\" value=\"Gestionar Tipos\" title=\"Agregar o quitar tipos\"/>");
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+
+
+Ha tenido lugar un error en la línea: 171 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+168:                                     out.println("</form>");
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+
+
+Ha tenido lugar un error en la línea: 172 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+169:                                     out.println("</td>");
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+
+
+Ha tenido lugar un error en la línea: 173 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+170:                                     out.println("<td>");
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+
+
+Ha tenido lugar un error en la línea: 174 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+171:                                     out.println("<form action=\"\" method=\"POST\" name=\"modificar_categoria\" >");
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+
+
+Ha tenido lugar un error en la línea: 175 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+172:                                     out.println("<input type=\"hidden\" name=\"codCategoria\" value=\""+ unaCategoria.getCodigo() +"\"/>");
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+
+
+Ha tenido lugar un error en la línea: 176 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+173:                                     out.println("<input type=\"hidden\" name=\"nomCategoria\" value=\""+ unaCategoria.getNombre() +"\"/>");
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+
+
+Ha tenido lugar un error en la línea: 177 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+174:                                     out.println("<input class=\"btn btn-danger btn-block\" type=\"submit\" name=\"modificar\" value=\"Modificar Nombre\" title=\"Modificar Categoria, haga click para agregar o eliminar tipos\"/>");
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+
+
+Ha tenido lugar un error en la línea: 178 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+175:                                     out.println("</form>");
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+181:                                     out.println("</td>");
+
+
+Ha tenido lugar un error en la línea: 179 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+176:                                     out.println("</td>");
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+181:                                     out.println("</td>");
+182:                                     out.println("</tr>");
+
+
+Ha tenido lugar un error en la línea: 180 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+177:                                     out.println("<td>");
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+181:                                     out.println("</td>");
+182:                                     out.println("</tr>");
+183:                                 }
+
+
+Ha tenido lugar un error en la línea: 181 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+178:                                     out.print("<button class=\"btn btn-danger btn-block\" name=\"eliminar_categoria\" onclick=\"eliminarCategoria("+ unaCategoria.getCodigo() + ", '" + unaCategoria.getNombre() + "');\" >");
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+181:                                     out.println("</td>");
+182:                                     out.println("</tr>");
+183:                                 }
+184:                             } 
+
+
+Ha tenido lugar un error en la línea: 182 en el archivo jsp: /CategoriaTipo.jsp
+out cannot be resolved
+179:                                     out.print("Eliminar");
+180:                                     out.print("</button>");
+181:                                     out.println("</td>");
+182:                                     out.println("</tr>");
+183:                                 }
+184:                             } 
+185:                                 
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:198)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:363)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:338)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:580)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:363)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 18:17:13.983 GRAVE [http-apr-8080-exec-84] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [No se puede compilar la clase para JSP: 
+
+Ha tenido lugar un error en la línea: [14] en el fichero java generado: [C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\work\Catalina\localhost\SistemaDeposito\org\apache\jsp\CategoriaTipo_jsp.java]
+The import java.lang.System.System cannot be resolved
+
+Ha tenido lugar un error en la línea: 150 en el archivo jsp: /CategoriaTipo.jsp
+session cannot be resolved
+147:                         </tr>
+148:                         <%!
+149:                             void cargarTablaCategorias(){
+150:                                 List<Categoria> categorias = (List<Categoria>) session.getAttribute("categorias");
+151:                                 for(Categoria unaCategoria : categorias){
+152:                                     System.out.println("<tr class=\"text-center\">");
+153:                                     System.out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+
+
+Stacktrace:] con causa raíz
+ org.apache.jasper.JasperException: No se puede compilar la clase para JSP: 
+
+Ha tenido lugar un error en la línea: [14] en el fichero java generado: [C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\work\Catalina\localhost\SistemaDeposito\org\apache\jsp\CategoriaTipo_jsp.java]
+The import java.lang.System.System cannot be resolved
+
+Ha tenido lugar un error en la línea: 150 en el archivo jsp: /CategoriaTipo.jsp
+session cannot be resolved
+147:                         </tr>
+148:                         <%!
+149:                             void cargarTablaCategorias(){
+150:                                 List<Categoria> categorias = (List<Categoria>) session.getAttribute("categorias");
+151:                                 for(Categoria unaCategoria : categorias){
+152:                                     System.out.println("<tr class=\"text-center\">");
+153:                                     System.out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:198)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:495)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:363)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:338)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:580)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:363)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 21:26:57.275 GRAVE [http-apr-8080-exec-132] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [Ha sucedido una excepción al procesar la página JSP /CategoriaTipo.jsp en línea 190
+
+187:                         </tr>
+188:                         <%
+189:                             
+190:                             for(Categoria unaCategoria : categorias){
+191:                                 out.println("<tr class=\"text-center\">");
+192:                                 out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+193:                                 out.println("<td>"+unaCategoria.getNombre()+"</td>");
+
+
+Stacktrace:] con causa raíz
+ java.lang.NullPointerException
+	at org.apache.jsp.CategoriaTipo_jsp._jspService(CategoriaTipo_jsp.java:306)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:438)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 21:29:00.868 GRAVE [http-apr-8080-exec-138] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [Ha sucedido una excepción al procesar la página JSP /CategoriaTipo.jsp en línea 190
+
+187:                         </tr>
+188:                         <%
+189:                             
+190:                             for(Categoria unaCategoria : categorias){
+191:                                 out.println("<tr class=\"text-center\">");
+192:                                 out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+193:                                 out.println("<td>"+unaCategoria.getNombre()+"</td>");
+
+
+Stacktrace:] con causa raíz
+ java.lang.NullPointerException
+	at org.apache.jsp.CategoriaTipo_jsp._jspService(CategoriaTipo_jsp.java:306)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:438)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+30-Jan-2020 21:29:01.766 GRAVE [http-apr-8080-exec-133] org.apache.catalina.core.StandardWrapperValve.invoke El Servlet.service() para el servlet [jsp] en el contexto con ruta [/SistemaDeposito] lanzó la excepción [Ha sucedido una excepción al procesar la página JSP /CategoriaTipo.jsp en línea 190
+
+187:                         </tr>
+188:                         <%
+189:                             
+190:                             for(Categoria unaCategoria : categorias){
+191:                                 out.println("<tr class=\"text-center\">");
+192:                                 out.println("<td>"+unaCategoria.getCodigo()+"</td>");
+193:                                 out.println("<td>"+unaCategoria.getNombre()+"</td>");
+
+
+Stacktrace:] con causa raíz
+ java.lang.NullPointerException
+	at org.apache.jsp.CategoriaTipo_jsp._jspService(CategoriaTipo_jsp.java:306)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:438)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+

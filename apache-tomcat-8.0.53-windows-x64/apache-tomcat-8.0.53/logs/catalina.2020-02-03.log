@@ -1,0 +1,1020 @@
+03-Feb-2020 15:10:51.649 INFORMACIÓN [http-apr-8080-exec-305] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 15:10:51.819 ADVERTENCIA [http-apr-8080-exec-305] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 15:10:55.094 INFORMACIÓN [http-apr-8080-exec-305] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 15:10:55.410 INFORMACIÓN [http-apr-8080-exec-305] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 15:15:38.224 INFORMACIÓN [http-apr-8080-exec-319] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 15:15:38.238 ADVERTENCIA [http-apr-8080-exec-319] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 15:15:41.425 INFORMACIÓN [http-apr-8080-exec-319] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 15:15:41.508 INFORMACIÓN [http-apr-8080-exec-319] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 15:16:39.728 ADVERTENCIA [http-apr-8080-exec-324] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 15:16:40.251 INFORMACIÓN [http-apr-8080-exec-324] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto /SistemaDeposito
+03-Feb-2020 15:16:45.289 INFORMACIÓN [http-apr-8080-exec-329] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml
+03-Feb-2020 15:16:47.774 INFORMACIÓN [http-apr-8080-exec-329] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 15:16:47.774 INFORMACIÓN [http-apr-8080-exec-329] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml has finished in 2.485 ms
+03-Feb-2020 15:16:47.787 INFORMACIÓN [http-apr-8080-exec-322] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SistemaDeposito]] after start() had already been called. The second call will be ignored.
+03-Feb-2020 15:18:56.921 ADVERTENCIA [http-apr-8080-exec-334] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 15:18:57.439 INFORMACIÓN [http-apr-8080-exec-334] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto /SistemaDeposito
+03-Feb-2020 15:19:02.652 INFORMACIÓN [http-apr-8080-exec-333] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml
+03-Feb-2020 15:19:04.793 INFORMACIÓN [http-apr-8080-exec-333] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 15:19:04.797 INFORMACIÓN [http-apr-8080-exec-333] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml has finished in 2.145 ms
+03-Feb-2020 15:19:04.800 INFORMACIÓN [http-apr-8080-exec-330] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SistemaDeposito]] after start() had already been called. The second call will be ignored.
+03-Feb-2020 15:22:54.655 ADVERTENCIA [http-apr-8080-exec-345] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 15:22:55.174 INFORMACIÓN [http-apr-8080-exec-345] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto /SistemaDeposito
+03-Feb-2020 15:23:26.576 INFORMACIÓN [http-apr-8080-exec-344] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml
+03-Feb-2020 15:23:28.488 INFORMACIÓN [http-apr-8080-exec-344] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 15:23:28.491 INFORMACIÓN [http-apr-8080-exec-344] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml has finished in 1.915 ms
+03-Feb-2020 15:23:28.493 INFORMACIÓN [http-apr-8080-exec-342] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SistemaDeposito]] after start() had already been called. The second call will be ignored.
+03-Feb-2020 15:25:24.317 ADVERTENCIA [http-apr-8080-exec-354] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 15:25:24.829 INFORMACIÓN [http-apr-8080-exec-354] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto /SistemaDeposito
+03-Feb-2020 15:25:34.505 INFORMACIÓN [http-apr-8080-exec-350] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml
+03-Feb-2020 15:25:36.947 INFORMACIÓN [http-apr-8080-exec-350] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 15:25:36.948 INFORMACIÓN [http-apr-8080-exec-350] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml has finished in 2.443 ms
+03-Feb-2020 15:25:36.961 INFORMACIÓN [http-apr-8080-exec-353] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SistemaDeposito]] after start() had already been called. The second call will be ignored.
+03-Feb-2020 15:27:39.596 ADVERTENCIA [http-apr-8080-exec-368] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 15:27:40.117 INFORMACIÓN [http-apr-8080-exec-368] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto /SistemaDeposito
+03-Feb-2020 15:27:49.433 INFORMACIÓN [http-apr-8080-exec-363] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml
+03-Feb-2020 15:27:51.789 INFORMACIÓN [http-apr-8080-exec-363] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 15:27:51.796 INFORMACIÓN [http-apr-8080-exec-363] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml has finished in 2.363 ms
+03-Feb-2020 15:27:51.801 INFORMACIÓN [http-apr-8080-exec-361] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SistemaDeposito]] after start() had already been called. The second call will be ignored.
+03-Feb-2020 15:53:42.411 INFORMACIÓN [http-apr-8080-exec-370] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 15:53:42.442 ADVERTENCIA [http-apr-8080-exec-370] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 15:53:44.254 INFORMACIÓN [http-apr-8080-exec-370] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 15:53:44.316 INFORMACIÓN [http-apr-8080-exec-370] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 15:58:03.731 INFORMACIÓN [http-apr-8080-exec-387] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 15:58:03.731 ADVERTENCIA [http-apr-8080-exec-387] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 15:58:05.631 INFORMACIÓN [http-apr-8080-exec-387] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 15:58:05.725 INFORMACIÓN [http-apr-8080-exec-387] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 16:33:21.050 ADVERTENCIA [http-apr-8080-exec-393] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 16:33:21.554 INFORMACIÓN [http-apr-8080-exec-393] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto /SistemaDeposito
+03-Feb-2020 16:33:36.780 INFORMACIÓN [http-apr-8080-exec-398] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml
+03-Feb-2020 16:33:38.597 INFORMACIÓN [http-apr-8080-exec-398] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 16:33:38.600 INFORMACIÓN [http-apr-8080-exec-398] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml has finished in 1.820 ms
+03-Feb-2020 16:33:38.603 INFORMACIÓN [http-apr-8080-exec-391] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SistemaDeposito]] after start() had already been called. The second call will be ignored.
+03-Feb-2020 17:06:19.275 INFORMACIÓN [http-apr-8080-exec-399] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:06:19.303 ADVERTENCIA [http-apr-8080-exec-399] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:06:21.393 INFORMACIÓN [http-apr-8080-exec-399] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:06:21.475 INFORMACIÓN [http-apr-8080-exec-399] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:06:39.174 INFORMACIÓN [http-apr-8080-exec-409] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:06:39.665 ADVERTENCIA [http-apr-8080-exec-409] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:06:41.434 INFORMACIÓN [http-apr-8080-exec-409] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:06:41.497 INFORMACIÓN [http-apr-8080-exec-409] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:06:59.159 INFORMACIÓN [http-apr-8080-exec-408] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:06:59.175 ADVERTENCIA [http-apr-8080-exec-408] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:07:01.088 INFORMACIÓN [http-apr-8080-exec-408] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:07:01.152 INFORMACIÓN [http-apr-8080-exec-408] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:07:08.512 INFORMACIÓN [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Acceso ilegal: esta instancia de aplicación web ya ha sido parada.  Could not load org.eclipse.persistence.internal.localization.i18n.LoggingLocalizationResource.  La eventual traza de pila que sigue ha sido motivada por un error lanzado con motivos de depuración así como para intentar terminar el hilo que motivó el acceso ilegal y no tiene impacto funcional.
+ java.lang.IllegalStateException: Acceso ilegal: esta instancia de aplicación web ya ha sido parada.  Could not load org.eclipse.persistence.internal.localization.i18n.LoggingLocalizationResource.  La eventual traza de pila que sigue ha sido motivada por un error lanzado con motivos de depuración así como para intentar terminar el hilo que motivó el acceso ilegal y no tiene impacto funcional.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1372)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1360)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1219)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1180)
+	at java.util.ResourceBundle$Control.newBundle(ResourceBundle.java:2657)
+	at java.util.ResourceBundle.loadBundle(ResourceBundle.java:1518)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1482)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1436)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1436)
+	at java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1370)
+	at java.util.ResourceBundle.getBundle(ResourceBundle.java:854)
+	at org.eclipse.persistence.internal.localization.EclipseLinkLocalization.buildMessage(EclipseLinkLocalization.java:60)
+	at org.eclipse.persistence.internal.localization.EclipseLinkLocalization.buildMessage(EclipseLinkLocalization.java:34)
+	at org.eclipse.persistence.internal.localization.LoggingLocalization.buildMessage(LoggingLocalization.java:25)
+	at org.eclipse.persistence.logging.AbstractSessionLog.formatMessage(AbstractSessionLog.java:987)
+	at org.eclipse.persistence.logging.DefaultSessionLog.log(DefaultSessionLog.java:142)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:3491)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4681)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4653)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4629)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4551)
+	at org.eclipse.persistence.internal.sessions.DatabaseSessionImpl.logout(DatabaseSessionImpl.java:937)
+	at org.eclipse.persistence.sessions.server.ServerSession.logout(ServerSession.java:776)
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.removeSessionFromGlobalSessionManager(EntityManagerSetupImpl.java:511)
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.undeploy(EntityManagerSetupImpl.java:2850)
+	at org.eclipse.persistence.internal.jpa.EntityManagerFactoryDelegate.close(EntityManagerFactoryDelegate.java:267)
+	at org.eclipse.persistence.internal.jpa.EntityManagerFactoryDelegate.finalize(EntityManagerFactoryDelegate.java:344)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:102)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:217)
+
+03-Feb-2020 17:07:08.513 INFORMACIÓN [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Acceso ilegal: esta instancia de aplicación web ya ha sido parada.  Could not load org/eclipse/persistence/internal/localization/i18n/LoggingLocalizationResource.properties.  La eventual traza de pila que sigue ha sido motivada por un error lanzado con motivos de depuración así como para intentar terminar el hilo que motivó el acceso ilegal y no tiene impacto funcional.
+ java.lang.IllegalStateException: Acceso ilegal: esta instancia de aplicación web ya ha sido parada.  Could not load org/eclipse/persistence/internal/localization/i18n/LoggingLocalizationResource.properties.  La eventual traza de pila que sigue ha sido motivada por un error lanzado con motivos de depuración así como para intentar terminar el hilo que motivó el acceso ilegal y no tiene impacto funcional.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1372)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1101)
+	at java.util.ResourceBundle$Control$1.run(ResourceBundle.java:2694)
+	at java.util.ResourceBundle$Control$1.run(ResourceBundle.java:2679)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.util.ResourceBundle$Control.newBundle(ResourceBundle.java:2678)
+	at java.util.ResourceBundle.loadBundle(ResourceBundle.java:1518)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1482)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1436)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1436)
+	at java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1370)
+	at java.util.ResourceBundle.getBundle(ResourceBundle.java:854)
+	at org.eclipse.persistence.internal.localization.EclipseLinkLocalization.buildMessage(EclipseLinkLocalization.java:60)
+	at org.eclipse.persistence.internal.localization.EclipseLinkLocalization.buildMessage(EclipseLinkLocalization.java:34)
+	at org.eclipse.persistence.internal.localization.LoggingLocalization.buildMessage(LoggingLocalization.java:25)
+	at org.eclipse.persistence.logging.AbstractSessionLog.formatMessage(AbstractSessionLog.java:987)
+	at org.eclipse.persistence.logging.DefaultSessionLog.log(DefaultSessionLog.java:142)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:3491)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4681)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4653)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4629)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4551)
+	at org.eclipse.persistence.internal.sessions.DatabaseSessionImpl.logout(DatabaseSessionImpl.java:937)
+	at org.eclipse.persistence.sessions.server.ServerSession.logout(ServerSession.java:776)
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.removeSessionFromGlobalSessionManager(EntityManagerSetupImpl.java:511)
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.undeploy(EntityManagerSetupImpl.java:2850)
+	at org.eclipse.persistence.internal.jpa.EntityManagerFactoryDelegate.close(EntityManagerFactoryDelegate.java:267)
+	at org.eclipse.persistence.internal.jpa.EntityManagerFactoryDelegate.finalize(EntityManagerFactoryDelegate.java:344)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:102)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:217)
+
+03-Feb-2020 17:12:45.390 INFORMACIÓN [http-apr-8080-exec-422] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:12:45.401 ADVERTENCIA [http-apr-8080-exec-422] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:12:47.477 INFORMACIÓN [http-apr-8080-exec-422] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:12:47.560 INFORMACIÓN [http-apr-8080-exec-422] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:13:44.349 INFORMACIÓN [http-apr-8080-exec-412] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:13:44.360 ADVERTENCIA [http-apr-8080-exec-412] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:13:46.189 INFORMACIÓN [http-apr-8080-exec-412] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:13:46.256 INFORMACIÓN [http-apr-8080-exec-412] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:14:06.043 INFORMACIÓN [http-apr-8080-exec-429] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:14:06.059 ADVERTENCIA [http-apr-8080-exec-429] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:14:08.049 INFORMACIÓN [http-apr-8080-exec-429] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:14:08.113 INFORMACIÓN [http-apr-8080-exec-429] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:16:04.909 INFORMACIÓN [http-apr-8080-exec-428] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:16:04.922 ADVERTENCIA [http-apr-8080-exec-428] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:16:06.757 INFORMACIÓN [http-apr-8080-exec-428] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:16:06.820 INFORMACIÓN [http-apr-8080-exec-428] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:17:26.903 INFORMACIÓN [http-apr-8080-exec-431] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:17:26.922 ADVERTENCIA [http-apr-8080-exec-431] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:17:29.456 INFORMACIÓN [http-apr-8080-exec-431] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:17:29.562 INFORMACIÓN [http-apr-8080-exec-431] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:28:14.169 INFORMACIÓN [http-apr-8080-exec-448] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:28:14.181 ADVERTENCIA [http-apr-8080-exec-448] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:28:16.484 INFORMACIÓN [http-apr-8080-exec-448] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:28:16.552 INFORMACIÓN [http-apr-8080-exec-448] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:28:47.421 INFORMACIÓN [http-apr-8080-exec-452] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:28:47.431 ADVERTENCIA [http-apr-8080-exec-452] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:28:49.258 INFORMACIÓN [http-apr-8080-exec-452] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:28:49.332 INFORMACIÓN [http-apr-8080-exec-452] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:29:19.622 INFORMACIÓN [http-apr-8080-exec-440] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:29:19.632 ADVERTENCIA [http-apr-8080-exec-440] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:29:21.420 INFORMACIÓN [http-apr-8080-exec-440] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:29:21.493 INFORMACIÓN [http-apr-8080-exec-440] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:29:27.686 INFORMACIÓN [http-apr-8080-exec-457] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:29:29.475 INFORMACIÓN [http-apr-8080-exec-457] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:29:29.661 INFORMACIÓN [http-apr-8080-exec-457] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:30:25.057 INFORMACIÓN [http-apr-8080-exec-458] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:30:25.069 ADVERTENCIA [http-apr-8080-exec-458] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:30:27.924 INFORMACIÓN [http-apr-8080-exec-458] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:30:28.014 INFORMACIÓN [http-apr-8080-exec-458] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:32:07.917 INFORMACIÓN [http-apr-8080-exec-461] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:32:07.938 ADVERTENCIA [http-apr-8080-exec-461] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:32:09.942 INFORMACIÓN [http-apr-8080-exec-461] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:32:10.014 INFORMACIÓN [http-apr-8080-exec-461] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:34:05.092 INFORMACIÓN [http-apr-8080-exec-460] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:34:05.103 ADVERTENCIA [http-apr-8080-exec-460] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:34:07.204 INFORMACIÓN [http-apr-8080-exec-460] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:34:07.274 INFORMACIÓN [http-apr-8080-exec-460] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:34:51.438 INFORMACIÓN [http-apr-8080-exec-474] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:34:51.448 ADVERTENCIA [http-apr-8080-exec-474] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:34:53.114 INFORMACIÓN [http-apr-8080-exec-474] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:34:53.178 INFORMACIÓN [http-apr-8080-exec-474] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:34:57.465 INFORMACIÓN [http-apr-8080-exec-475] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:34:59.447 INFORMACIÓN [http-apr-8080-exec-475] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:34:59.512 INFORMACIÓN [http-apr-8080-exec-475] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:35:15.365 INFORMACIÓN [http-apr-8080-exec-480] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:35:15.376 ADVERTENCIA [http-apr-8080-exec-480] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:35:17.213 INFORMACIÓN [http-apr-8080-exec-480] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:35:17.279 INFORMACIÓN [http-apr-8080-exec-480] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:36:00.626 INFORMACIÓN [http-apr-8080-exec-481] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:36:00.637 ADVERTENCIA [http-apr-8080-exec-481] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:36:02.654 INFORMACIÓN [http-apr-8080-exec-481] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:36:02.727 INFORMACIÓN [http-apr-8080-exec-481] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:36:17.213 INFORMACIÓN [http-apr-8080-exec-484] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:36:17.226 ADVERTENCIA [http-apr-8080-exec-484] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:36:19.196 INFORMACIÓN [http-apr-8080-exec-484] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:36:19.263 INFORMACIÓN [http-apr-8080-exec-484] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:36:32.205 INFORMACIÓN [http-apr-8080-exec-486] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:36:32.249 ADVERTENCIA [http-apr-8080-exec-486] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:36:33.946 INFORMACIÓN [http-apr-8080-exec-486] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:36:34.011 INFORMACIÓN [http-apr-8080-exec-486] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:37:22.461 INFORMACIÓN [http-apr-8080-exec-485] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:37:22.470 ADVERTENCIA [http-apr-8080-exec-485] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:37:24.379 INFORMACIÓN [http-apr-8080-exec-485] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:37:24.440 INFORMACIÓN [http-apr-8080-exec-485] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:38:07.168 INFORMACIÓN [http-apr-8080-exec-497] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:38:07.212 ADVERTENCIA [http-apr-8080-exec-497] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:38:09.172 INFORMACIÓN [http-apr-8080-exec-497] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:38:09.237 INFORMACIÓN [http-apr-8080-exec-497] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:44:05.549 INFORMACIÓN [http-apr-8080-exec-513] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:44:05.581 ADVERTENCIA [http-apr-8080-exec-513] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:44:07.471 INFORMACIÓN [http-apr-8080-exec-513] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:44:07.544 INFORMACIÓN [http-apr-8080-exec-513] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:50:21.011 INFORMACIÓN [http-apr-8080-exec-508] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:50:21.011 ADVERTENCIA [http-apr-8080-exec-508] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:50:22.890 INFORMACIÓN [http-apr-8080-exec-508] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:50:22.954 INFORMACIÓN [http-apr-8080-exec-508] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:55:52.107 INFORMACIÓN [http-apr-8080-exec-521] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:55:52.117 ADVERTENCIA [http-apr-8080-exec-521] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:55:53.939 INFORMACIÓN [http-apr-8080-exec-521] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:55:54.005 INFORMACIÓN [http-apr-8080-exec-521] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 17:57:04.706 INFORMACIÓN [http-apr-8080-exec-526] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 17:57:04.706 ADVERTENCIA [http-apr-8080-exec-526] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 17:57:06.453 INFORMACIÓN [http-apr-8080-exec-526] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 17:57:06.515 INFORMACIÓN [http-apr-8080-exec-526] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:01:42.454 INFORMACIÓN [http-apr-8080-exec-531] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:01:42.454 ADVERTENCIA [http-apr-8080-exec-531] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 18:01:44.349 INFORMACIÓN [http-apr-8080-exec-531] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:01:44.410 INFORMACIÓN [http-apr-8080-exec-531] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:02:03.390 INFORMACIÓN [http-apr-8080-exec-533] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:02:03.390 ADVERTENCIA [http-apr-8080-exec-533] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 18:02:05.029 INFORMACIÓN [http-apr-8080-exec-533] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:02:05.139 INFORMACIÓN [http-apr-8080-exec-533] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:02:29.437 INFORMACIÓN [http-apr-8080-exec-544] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:02:29.437 ADVERTENCIA [http-apr-8080-exec-544] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 18:02:31.224 INFORMACIÓN [http-apr-8080-exec-544] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:02:31.302 INFORMACIÓN [http-apr-8080-exec-544] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:03:14.111 INFORMACIÓN [http-apr-8080-exec-535] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:03:14.127 ADVERTENCIA [http-apr-8080-exec-535] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 18:03:15.979 INFORMACIÓN [http-apr-8080-exec-535] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:03:16.057 INFORMACIÓN [http-apr-8080-exec-535] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:06:09.426 INFORMACIÓN [http-apr-8080-exec-536] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:06:09.463 ADVERTENCIA [http-apr-8080-exec-536] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 18:06:11.409 INFORMACIÓN [http-apr-8080-exec-536] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:06:11.471 INFORMACIÓN [http-apr-8080-exec-536] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:09:05.379 INFORMACIÓN [http-apr-8080-exec-555] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:09:05.395 ADVERTENCIA [http-apr-8080-exec-555] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 18:09:07.292 INFORMACIÓN [http-apr-8080-exec-555] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:09:07.898 INFORMACIÓN [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Acceso ilegal: esta instancia de aplicación web ya ha sido parada.  Could not load org.eclipse.persistence.internal.localization.i18n.LoggingLocalizationResource.  La eventual traza de pila que sigue ha sido motivada por un error lanzado con motivos de depuración así como para intentar terminar el hilo que motivó el acceso ilegal y no tiene impacto funcional.
+ java.lang.IllegalStateException: Acceso ilegal: esta instancia de aplicación web ya ha sido parada.  Could not load org.eclipse.persistence.internal.localization.i18n.LoggingLocalizationResource.  La eventual traza de pila que sigue ha sido motivada por un error lanzado con motivos de depuración así como para intentar terminar el hilo que motivó el acceso ilegal y no tiene impacto funcional.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1372)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1360)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1219)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1180)
+	at java.util.ResourceBundle$Control.newBundle(ResourceBundle.java:2657)
+	at java.util.ResourceBundle.loadBundle(ResourceBundle.java:1518)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1482)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1436)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1436)
+	at java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1370)
+	at java.util.ResourceBundle.getBundle(ResourceBundle.java:854)
+	at org.eclipse.persistence.internal.localization.EclipseLinkLocalization.buildMessage(EclipseLinkLocalization.java:60)
+	at org.eclipse.persistence.internal.localization.EclipseLinkLocalization.buildMessage(EclipseLinkLocalization.java:34)
+	at org.eclipse.persistence.internal.localization.LoggingLocalization.buildMessage(LoggingLocalization.java:25)
+	at org.eclipse.persistence.logging.AbstractSessionLog.formatMessage(AbstractSessionLog.java:987)
+	at org.eclipse.persistence.logging.DefaultSessionLog.log(DefaultSessionLog.java:142)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:3491)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4681)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4653)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4629)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4551)
+	at org.eclipse.persistence.internal.sessions.DatabaseSessionImpl.logout(DatabaseSessionImpl.java:937)
+	at org.eclipse.persistence.sessions.server.ServerSession.logout(ServerSession.java:776)
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.removeSessionFromGlobalSessionManager(EntityManagerSetupImpl.java:511)
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.undeploy(EntityManagerSetupImpl.java:2850)
+	at org.eclipse.persistence.internal.jpa.EntityManagerFactoryDelegate.close(EntityManagerFactoryDelegate.java:267)
+	at org.eclipse.persistence.internal.jpa.EntityManagerFactoryDelegate.finalize(EntityManagerFactoryDelegate.java:344)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:102)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:217)
+
+03-Feb-2020 18:09:07.899 INFORMACIÓN [Finalizer] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Acceso ilegal: esta instancia de aplicación web ya ha sido parada.  Could not load org/eclipse/persistence/internal/localization/i18n/LoggingLocalizationResource.properties.  La eventual traza de pila que sigue ha sido motivada por un error lanzado con motivos de depuración así como para intentar terminar el hilo que motivó el acceso ilegal y no tiene impacto funcional.
+ java.lang.IllegalStateException: Acceso ilegal: esta instancia de aplicación web ya ha sido parada.  Could not load org/eclipse/persistence/internal/localization/i18n/LoggingLocalizationResource.properties.  La eventual traza de pila que sigue ha sido motivada por un error lanzado con motivos de depuración así como para intentar terminar el hilo que motivó el acceso ilegal y no tiene impacto funcional.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1372)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1101)
+	at java.util.ResourceBundle$Control$1.run(ResourceBundle.java:2694)
+	at java.util.ResourceBundle$Control$1.run(ResourceBundle.java:2679)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.util.ResourceBundle$Control.newBundle(ResourceBundle.java:2678)
+	at java.util.ResourceBundle.loadBundle(ResourceBundle.java:1518)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1482)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1436)
+	at java.util.ResourceBundle.findBundle(ResourceBundle.java:1436)
+	at java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1370)
+	at java.util.ResourceBundle.getBundle(ResourceBundle.java:854)
+	at org.eclipse.persistence.internal.localization.EclipseLinkLocalization.buildMessage(EclipseLinkLocalization.java:60)
+	at org.eclipse.persistence.internal.localization.EclipseLinkLocalization.buildMessage(EclipseLinkLocalization.java:34)
+	at org.eclipse.persistence.internal.localization.LoggingLocalization.buildMessage(LoggingLocalization.java:25)
+	at org.eclipse.persistence.logging.AbstractSessionLog.formatMessage(AbstractSessionLog.java:987)
+	at org.eclipse.persistence.logging.DefaultSessionLog.log(DefaultSessionLog.java:142)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:3491)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4681)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4653)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4629)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.log(AbstractSession.java:4551)
+	at org.eclipse.persistence.internal.sessions.DatabaseSessionImpl.logout(DatabaseSessionImpl.java:937)
+	at org.eclipse.persistence.sessions.server.ServerSession.logout(ServerSession.java:776)
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.removeSessionFromGlobalSessionManager(EntityManagerSetupImpl.java:511)
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.undeploy(EntityManagerSetupImpl.java:2850)
+	at org.eclipse.persistence.internal.jpa.EntityManagerFactoryDelegate.close(EntityManagerFactoryDelegate.java:267)
+	at org.eclipse.persistence.internal.jpa.EntityManagerFactoryDelegate.finalize(EntityManagerFactoryDelegate.java:344)
+	at java.lang.System$2.invokeFinalize(System.java:1270)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:102)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:34)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:217)
+
+03-Feb-2020 18:09:07.942 INFORMACIÓN [http-apr-8080-exec-555] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:12:28.983 INFORMACIÓN [http-apr-8080-exec-557] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:12:28.983 ADVERTENCIA [http-apr-8080-exec-557] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 18:12:30.737 INFORMACIÓN [http-apr-8080-exec-557] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:12:30.800 INFORMACIÓN [http-apr-8080-exec-557] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:15:17.248 INFORMACIÓN [http-apr-8080-exec-572] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:15:17.263 ADVERTENCIA [http-apr-8080-exec-572] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 18:15:19.129 INFORMACIÓN [http-apr-8080-exec-572] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:15:19.191 INFORMACIÓN [http-apr-8080-exec-572] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:43:43.026 INFORMACIÓN [http-apr-8080-exec-584] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:43:43.046 ADVERTENCIA [http-apr-8080-exec-584] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 18:43:44.871 INFORMACIÓN [http-apr-8080-exec-584] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:43:44.933 INFORMACIÓN [http-apr-8080-exec-584] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:43:44.989 INFORMACIÓN [http-apr-8080-exec-575] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:43:46.802 INFORMACIÓN [http-apr-8080-exec-575] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:43:46.887 INFORMACIÓN [http-apr-8080-exec-575] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:43:57.386 INFORMACIÓN [http-apr-8080-exec-582] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:43:59.308 INFORMACIÓN [http-apr-8080-exec-582] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:43:59.402 INFORMACIÓN [http-apr-8080-exec-582] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:43:59.493 INFORMACIÓN [http-apr-8080-exec-587] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:43:59.511 INFORMACIÓN [http-apr-8080-exec-587] org.apache.catalina.core.StandardWrapper.unload Esperando por 1 instancia(s) para recuperar su espacio reservado
+03-Feb-2020 18:44:01.889 INFORMACIÓN [http-apr-8080-exec-587] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:44:01.968 INFORMACIÓN [http-apr-8080-exec-587] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 18:57:17.917 INFORMACIÓN [http-apr-8080-exec-595] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 18:57:19.629 INFORMACIÓN [http-apr-8080-exec-595] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 18:57:19.696 INFORMACIÓN [http-apr-8080-exec-595] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 19:23:20.966 INFORMACIÓN [http-apr-8080-exec-608] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 19:23:20.966 ADVERTENCIA [http-apr-8080-exec-608] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 19:23:22.874 INFORMACIÓN [http-apr-8080-exec-608] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 19:23:22.936 INFORMACIÓN [http-apr-8080-exec-608] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 19:24:03.602 INFORMACIÓN [http-apr-8080-exec-603] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 19:24:03.714 INFORMACIÓN [http-apr-8080-exec-610] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 19:24:05.653 INFORMACIÓN [http-apr-8080-exec-610] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 19:24:05.719 INFORMACIÓN [http-apr-8080-exec-610] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 19:24:05.819 INFORMACIÓN [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/SistemaDeposito]
+03-Feb-2020 19:24:05.819 INFORMACIÓN [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 19:24:05.820 INFORMACIÓN [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardWrapper.unload Esperando por 1 instancia(s) para recuperar su espacio reservado
+03-Feb-2020 19:24:07.738 INFORMACIÓN [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 19:24:07.853 INFORMACIÓN [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 19:25:16.096 INFORMACIÓN [http-apr-8080-exec-611] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 19:25:17.830 INFORMACIÓN [http-apr-8080-exec-611] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 19:25:17.892 INFORMACIÓN [http-apr-8080-exec-611] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:05:20.985 INFORMACIÓN [http-apr-8080-exec-618] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:05:22.791 INFORMACIÓN [http-apr-8080-exec-618] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:05:22.796 INFORMACIÓN [http-apr-8080-exec-618] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:16:34.509 INFORMACIÓN [http-apr-8080-exec-636] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:16:36.739 INFORMACIÓN [http-apr-8080-exec-636] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:16:36.743 INFORMACIÓN [http-apr-8080-exec-636] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:19:07.596 INFORMACIÓN [http-apr-8080-exec-635] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:19:09.874 INFORMACIÓN [http-apr-8080-exec-635] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:19:09.879 INFORMACIÓN [http-apr-8080-exec-635] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:19:10.360 INFORMACIÓN [http-apr-8080-exec-642] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:19:10.360 INFORMACIÓN [http-apr-8080-exec-642] org.apache.catalina.core.StandardWrapper.unload Esperando por 1 instancia(s) para recuperar su espacio reservado
+03-Feb-2020 20:19:12.438 INFORMACIÓN [http-apr-8080-exec-642] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:19:12.441 INFORMACIÓN [http-apr-8080-exec-642] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:25:30.229 INFORMACIÓN [http-apr-8080-exec-654] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:25:32.148 INFORMACIÓN [http-apr-8080-exec-654] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:25:32.152 INFORMACIÓN [http-apr-8080-exec-654] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:28:17.757 INFORMACIÓN [http-apr-8080-exec-647] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:28:20.036 INFORMACIÓN [http-apr-8080-exec-647] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:28:20.040 INFORMACIÓN [http-apr-8080-exec-647] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:28:20.074 INFORMACIÓN [http-apr-8080-exec-662] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:28:21.961 INFORMACIÓN [http-apr-8080-exec-662] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:28:21.968 INFORMACIÓN [http-apr-8080-exec-662] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:28:48.680 INFORMACIÓN [http-apr-8080-exec-649] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:28:50.803 INFORMACIÓN [http-apr-8080-exec-649] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:28:50.805 INFORMACIÓN [http-apr-8080-exec-649] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:28:50.838 INFORMACIÓN [http-apr-8080-exec-661] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:28:53.008 INFORMACIÓN [http-apr-8080-exec-661] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:28:53.150 INFORMACIÓN [http-apr-8080-exec-661] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:28:53.187 INFORMACIÓN [http-apr-8080-exec-667] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:28:54.959 INFORMACIÓN [http-apr-8080-exec-667] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:28:54.964 INFORMACIÓN [http-apr-8080-exec-667] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:29:21.005 INFORMACIÓN [http-apr-8080-exec-663] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:29:22.807 INFORMACIÓN [http-apr-8080-exec-663] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:29:22.810 INFORMACIÓN [http-apr-8080-exec-663] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:30:09.575 INFORMACIÓN [http-apr-8080-exec-664] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:30:11.546 INFORMACIÓN [http-apr-8080-exec-664] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:30:11.550 INFORMACIÓN [http-apr-8080-exec-664] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:30:11.581 INFORMACIÓN [http-apr-8080-exec-670] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:30:13.229 INFORMACIÓN [http-apr-8080-exec-670] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:30:13.237 INFORMACIÓN [http-apr-8080-exec-670] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:32:44.138 INFORMACIÓN [http-apr-8080-exec-672] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:32:46.437 INFORMACIÓN [http-apr-8080-exec-672] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:32:46.443 INFORMACIÓN [http-apr-8080-exec-672] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:37:20.371 INFORMACIÓN [http-apr-8080-exec-678] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:37:22.447 INFORMACIÓN [http-apr-8080-exec-678] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:37:22.453 INFORMACIÓN [http-apr-8080-exec-678] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:37:22.492 INFORMACIÓN [http-apr-8080-exec-686] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:37:24.236 INFORMACIÓN [http-apr-8080-exec-686] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:37:24.240 INFORMACIÓN [http-apr-8080-exec-686] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:41:56.497 INFORMACIÓN [http-apr-8080-exec-695] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:41:58.531 INFORMACIÓN [http-apr-8080-exec-695] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:41:58.534 INFORMACIÓN [http-apr-8080-exec-695] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:46:09.481 INFORMACIÓN [http-apr-8080-exec-703] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:47:36.322 INFORMACIÓN [http-apr-8080-exec-716] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:47:36.391 ADVERTENCIA [http-apr-8080-exec-716] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 20:47:39.361 INFORMACIÓN [http-apr-8080-exec-716] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:47:39.476 INFORMACIÓN [http-apr-8080-exec-716] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:49:23.280 INFORMACIÓN [http-apr-8080-exec-720] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:49:23.292 ADVERTENCIA [http-apr-8080-exec-720] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 20:49:25.066 INFORMACIÓN [http-apr-8080-exec-720] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:49:25.135 INFORMACIÓN [http-apr-8080-exec-720] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:52:38.794 ADVERTENCIA [http-apr-8080-exec-721] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 20:52:39.302 INFORMACIÓN [http-apr-8080-exec-721] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto /SistemaDeposito
+03-Feb-2020 20:52:46.794 INFORMACIÓN [http-apr-8080-exec-726] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml
+03-Feb-2020 20:52:48.685 INFORMACIÓN [http-apr-8080-exec-726] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:52:48.694 INFORMACIÓN [http-apr-8080-exec-726] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml has finished in 1.900 ms
+03-Feb-2020 20:52:48.697 INFORMACIÓN [http-apr-8080-exec-717] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SistemaDeposito]] after start() had already been called. The second call will be ignored.
+03-Feb-2020 20:54:55.561 INFORMACIÓN [http-apr-8080-exec-733] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:54:55.663 ADVERTENCIA [http-apr-8080-exec-733] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 20:54:57.689 INFORMACIÓN [http-apr-8080-exec-733] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:54:57.759 INFORMACIÓN [http-apr-8080-exec-733] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 20:56:43.129 INFORMACIÓN [http-apr-8080-exec-741] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 20:56:43.144 ADVERTENCIA [http-apr-8080-exec-741] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 20:56:44.860 INFORMACIÓN [http-apr-8080-exec-741] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 20:56:44.932 INFORMACIÓN [http-apr-8080-exec-741] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 21:00:09.297 INFORMACIÓN [http-apr-8080-exec-754] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 21:00:09.340 ADVERTENCIA [http-apr-8080-exec-754] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 21:00:11.532 INFORMACIÓN [http-apr-8080-exec-754] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:00:11.633 INFORMACIÓN [http-apr-8080-exec-754] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 21:03:23.549 INFORMACIÓN [http-apr-8080-exec-763] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 21:03:23.583 ADVERTENCIA [http-apr-8080-exec-763] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 21:03:25.297 INFORMACIÓN [http-apr-8080-exec-763] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:03:25.362 INFORMACIÓN [http-apr-8080-exec-763] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 21:09:56.667 INFORMACIÓN [http-apr-8080-exec-767] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 21:09:56.683 ADVERTENCIA [http-apr-8080-exec-767] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 21:09:58.855 INFORMACIÓN [http-apr-8080-exec-767] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:09:58.972 INFORMACIÓN [http-apr-8080-exec-767] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 21:11:41.940 ADVERTENCIA [http-apr-8080-exec-782] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 21:11:42.457 INFORMACIÓN [http-apr-8080-exec-782] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto /SistemaDeposito
+03-Feb-2020 21:11:49.417 INFORMACIÓN [http-apr-8080-exec-780] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml
+03-Feb-2020 21:11:51.417 INFORMACIÓN [http-apr-8080-exec-780] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:11:51.423 INFORMACIÓN [http-apr-8080-exec-780] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml has finished in 2.005 ms
+03-Feb-2020 21:11:51.426 INFORMACIÓN [http-apr-8080-exec-776] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SistemaDeposito]] after start() had already been called. The second call will be ignored.
+03-Feb-2020 21:15:08.898 INFORMACIÓN [http-apr-8080-exec-778] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 21:15:08.923 ADVERTENCIA [http-apr-8080-exec-778] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 21:15:11.772 INFORMACIÓN [http-apr-8080-exec-778] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:15:11.873 INFORMACIÓN [http-apr-8080-exec-778] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 21:15:26.447 GRAVE [http-apr-8080-exec-786] Persistencia.ControladoraPersistencia.editarCategoria null
+ javax.persistence.RollbackException: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-6' for key 'PRIMARY'
+Error Code: 1062
+Call: INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)
+	bind => [2 parameters bound]
+Query: DataModifyQuery(name="tipos" sql="INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)")
+	at org.eclipse.persistence.internal.jpa.transaction.EntityTransactionImpl.commit(EntityTransactionImpl.java:157)
+	at Persistencia.CategoriaJpaController.edit(CategoriaJpaController.java:66)
+	at Persistencia.ControladoraPersistencia.editarCategoria(ControladoraPersistencia.java:80)
+	at Logica.ControladoraLogica.agregarTipoCategoria(ControladoraLogica.java:100)
+	at Logica.ControladoraLogica.agregarTipoCategoria(ControladoraLogica.java:117)
+	at Logica.ControladoraLogica.crearTipo(ControladoraLogica.java:81)
+	at Servlets.ControladoraVisual.crearTipo(ControladoraVisual.java:80)
+	at Servlets.CrearTipo.processRequest(CrearTipo.java:40)
+	at Servlets.CrearTipo.doPost(CrearTipo.java:86)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-6' for key 'PRIMARY'
+Error Code: 1062
+Call: INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)
+	bind => [2 parameters bound]
+Query: DataModifyQuery(name="tipos" sql="INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)")
+	at org.eclipse.persistence.exceptions.DatabaseException.sqlException(DatabaseException.java:331)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:900)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeNoSelectCall(DatasourceCallQueryMechanism.java:271)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeNoSelect(DatasourceCallQueryMechanism.java:251)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.executeNoSelect(StatementQueryMechanism.java:118)
+	at org.eclipse.persistence.queries.DataModifyQuery.executeDatabaseQuery(DataModifyQuery.java:85)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.internalExecuteQuery(AbstractSession.java:3214)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.mappings.ManyToManyMapping.insertAddedObjectEntry(ManyToManyMapping.java:637)
+	at org.eclipse.persistence.mappings.ManyToManyMapping.performDataModificationEvent(ManyToManyMapping.java:845)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:159)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithChangeSet(UnitOfWorkImpl.java:1531)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.commitRootUnitOfWork(RepeatableWriteUnitOfWork.java:277)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitAndResume(UnitOfWorkImpl.java:1169)
+	at org.eclipse.persistence.internal.jpa.transaction.EntityTransactionImpl.commit(EntityTransactionImpl.java:132)
+	... 31 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-6' for key 'PRIMARY'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1040)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4120)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4052)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2503)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2664)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2794)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2458)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2375)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2359)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	... 55 more
+
+03-Feb-2020 21:15:32.947 GRAVE [http-apr-8080-exec-775] Persistencia.ControladoraPersistencia.editarCategoria null
+ javax.persistence.RollbackException: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-7' for key 'PRIMARY'
+Error Code: 1062
+Call: INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)
+	bind => [2 parameters bound]
+Query: DataModifyQuery(name="tipos" sql="INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)")
+	at org.eclipse.persistence.internal.jpa.transaction.EntityTransactionImpl.commit(EntityTransactionImpl.java:157)
+	at Persistencia.CategoriaJpaController.edit(CategoriaJpaController.java:66)
+	at Persistencia.ControladoraPersistencia.editarCategoria(ControladoraPersistencia.java:80)
+	at Logica.ControladoraLogica.agregarTipoCategoria(ControladoraLogica.java:100)
+	at Logica.ControladoraLogica.agregarTipoCategoria(ControladoraLogica.java:117)
+	at Logica.ControladoraLogica.crearTipo(ControladoraLogica.java:81)
+	at Servlets.ControladoraVisual.crearTipo(ControladoraVisual.java:80)
+	at Servlets.CrearTipo.processRequest(CrearTipo.java:40)
+	at Servlets.CrearTipo.doPost(CrearTipo.java:86)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-7' for key 'PRIMARY'
+Error Code: 1062
+Call: INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)
+	bind => [2 parameters bound]
+Query: DataModifyQuery(name="tipos" sql="INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)")
+	at org.eclipse.persistence.exceptions.DatabaseException.sqlException(DatabaseException.java:331)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:900)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeNoSelectCall(DatasourceCallQueryMechanism.java:271)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeNoSelect(DatasourceCallQueryMechanism.java:251)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.executeNoSelect(StatementQueryMechanism.java:118)
+	at org.eclipse.persistence.queries.DataModifyQuery.executeDatabaseQuery(DataModifyQuery.java:85)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.internalExecuteQuery(AbstractSession.java:3214)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.mappings.ManyToManyMapping.insertAddedObjectEntry(ManyToManyMapping.java:637)
+	at org.eclipse.persistence.mappings.ManyToManyMapping.performDataModificationEvent(ManyToManyMapping.java:845)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:159)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithChangeSet(UnitOfWorkImpl.java:1531)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.commitRootUnitOfWork(RepeatableWriteUnitOfWork.java:277)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitAndResume(UnitOfWorkImpl.java:1169)
+	at org.eclipse.persistence.internal.jpa.transaction.EntityTransactionImpl.commit(EntityTransactionImpl.java:132)
+	... 31 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-7' for key 'PRIMARY'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1040)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4120)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4052)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2503)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2664)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2794)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2458)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2375)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2359)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	... 55 more
+
+03-Feb-2020 21:16:09.317 INFORMACIÓN [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+03-Feb-2020 21:16:09.327 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-apr-8080"]
+03-Feb-2020 21:16:09.391 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-apr-8009"]
+03-Feb-2020 21:16:09.453 INFORMACIÓN [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio Catalina
+03-Feb-2020 21:16:10.042 ADVERTENCIA [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 21:16:10.061 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-apr-8080"]
+03-Feb-2020 21:16:10.134 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-apr-8009"]
+03-Feb-2020 21:16:10.198 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-apr-8080"]
+03-Feb-2020 21:16:10.199 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-apr-8009"]
+03-Feb-2020 21:21:17.788 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.53
+03-Feb-2020 21:21:17.792 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 29 2018 14:42:45 UTC
+03-Feb-2020 21:21:17.794 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.53.0
+03-Feb-2020 21:21:17.794 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+03-Feb-2020 21:21:17.795 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Feb-2020 21:21:17.795 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Feb-2020 21:21:17.795 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_211\jre
+03-Feb-2020 21:21:17.795 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_211-b12
+03-Feb-2020 21:21:17.796 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+03-Feb-2020 21:21:17.796 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53
+03-Feb-2020 21:21:17.796 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53
+03-Feb-2020 21:21:17.796 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\logging.properties
+03-Feb-2020 21:21:17.796 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Feb-2020 21:21:17.796 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-QVTKTTF
+03-Feb-2020 21:21:17.796 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Feb-2020 21:21:17.797 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Feb-2020 21:21:17.797 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+03-Feb-2020 21:21:17.797 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53
+03-Feb-2020 21:21:17.806 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53
+03-Feb-2020 21:21:17.806 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\temp
+03-Feb-2020 21:21:17.806 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat 1.2.17 con la versión APR 1.6.3.
+03-Feb-2020 21:21:17.806 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true].
+03-Feb-2020 21:21:18.643 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente (OpenSSL 1.0.2o  27 Mar 2018)
+03-Feb-2020 21:21:19.040 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+03-Feb-2020 21:21:19.107 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+03-Feb-2020 21:21:19.117 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2345 ms
+03-Feb-2020 21:21:19.201 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio Catalina
+03-Feb-2020 21:21:19.201 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.53
+03-Feb-2020 21:21:19.219 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml
+03-Feb-2020 21:21:22.400 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:21:22.825 ADVERTENCIA [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [379] milliseconds.
+03-Feb-2020 21:21:23.050 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\conf\Catalina\localhost\SistemaDeposito.xml has finished in 3.831 ms
+03-Feb-2020 21:21:23.050 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Despliegue del directorio C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\webapps\docs de la aplicación web
+03-Feb-2020 21:21:23.234 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:21:23.237 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\webapps\docs has finished in 187 ms
+03-Feb-2020 21:21:23.237 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Despliegue del directorio C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\webapps\examples de la aplicación web
+03-Feb-2020 21:21:25.468 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:21:25.575 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\webapps\examples has finished in 2.338 ms
+03-Feb-2020 21:21:25.576 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Despliegue del directorio C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\webapps\host-manager de la aplicación web
+03-Feb-2020 21:21:25.763 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:21:25.768 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\webapps\host-manager has finished in 193 ms
+03-Feb-2020 21:21:25.768 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Despliegue del directorio C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\webapps\manager de la aplicación web
+03-Feb-2020 21:21:25.969 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:21:25.971 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\webapps\manager has finished in 203 ms
+03-Feb-2020 21:21:25.972 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Despliegue del directorio C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\webapps\ROOT de la aplicación web
+03-Feb-2020 21:21:26.123 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:21:26.127 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\soare\Documents\NetBeansProjects\SistemaDeposito\apache-tomcat-8.0.53-windows-x64\apache-tomcat-8.0.53\webapps\ROOT has finished in 156 ms
+03-Feb-2020 21:21:26.133 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+03-Feb-2020 21:21:26.198 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+03-Feb-2020 21:21:26.215 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in 7096 ms
+03-Feb-2020 21:21:27.089 INFORMACIÓN [http-apr-8080-exec-5] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 21:21:29.350 INFORMACIÓN [http-apr-8080-exec-5] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:21:29.482 INFORMACIÓN [http-apr-8080-exec-5] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 21:22:48.523 GRAVE [http-apr-8080-exec-12] Persistencia.ControladoraPersistencia.editarCategoria null
+ javax.persistence.RollbackException: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-6' for key 'PRIMARY'
+Error Code: 1062
+Call: INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)
+	bind => [2 parameters bound]
+Query: DataModifyQuery(name="tipos" sql="INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)")
+	at org.eclipse.persistence.internal.jpa.transaction.EntityTransactionImpl.commit(EntityTransactionImpl.java:157)
+	at Persistencia.CategoriaJpaController.edit(CategoriaJpaController.java:66)
+	at Persistencia.ControladoraPersistencia.editarCategoria(ControladoraPersistencia.java:80)
+	at Logica.ControladoraLogica.agregarTipoCategoria(ControladoraLogica.java:100)
+	at Logica.ControladoraLogica.agregarTipoCategoria(ControladoraLogica.java:117)
+	at Logica.ControladoraLogica.crearTipo(ControladoraLogica.java:81)
+	at Servlets.ControladoraVisual.crearTipo(ControladoraVisual.java:80)
+	at Servlets.CrearTipo.processRequest(CrearTipo.java:40)
+	at Servlets.CrearTipo.doPost(CrearTipo.java:86)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-6' for key 'PRIMARY'
+Error Code: 1062
+Call: INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)
+	bind => [2 parameters bound]
+Query: DataModifyQuery(name="tipos" sql="INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)")
+	at org.eclipse.persistence.exceptions.DatabaseException.sqlException(DatabaseException.java:331)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:900)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeNoSelectCall(DatasourceCallQueryMechanism.java:271)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeNoSelect(DatasourceCallQueryMechanism.java:251)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.executeNoSelect(StatementQueryMechanism.java:118)
+	at org.eclipse.persistence.queries.DataModifyQuery.executeDatabaseQuery(DataModifyQuery.java:85)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.internalExecuteQuery(AbstractSession.java:3214)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.mappings.ManyToManyMapping.insertAddedObjectEntry(ManyToManyMapping.java:637)
+	at org.eclipse.persistence.mappings.ManyToManyMapping.performDataModificationEvent(ManyToManyMapping.java:845)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:159)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithChangeSet(UnitOfWorkImpl.java:1531)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.commitRootUnitOfWork(RepeatableWriteUnitOfWork.java:277)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitAndResume(UnitOfWorkImpl.java:1169)
+	at org.eclipse.persistence.internal.jpa.transaction.EntityTransactionImpl.commit(EntityTransactionImpl.java:132)
+	... 31 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-6' for key 'PRIMARY'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1040)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4120)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4052)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2503)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2664)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2794)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2458)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2375)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2359)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	... 55 more
+
+03-Feb-2020 21:24:04.310 GRAVE [http-apr-8080-exec-12] Persistencia.ControladoraPersistencia.editarCategoria null
+ javax.persistence.RollbackException: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-6' for key 'PRIMARY'
+Error Code: 1062
+Call: INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)
+	bind => [2 parameters bound]
+Query: DataModifyQuery(name="tipos" sql="INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)")
+	at org.eclipse.persistence.internal.jpa.transaction.EntityTransactionImpl.commit(EntityTransactionImpl.java:157)
+	at Persistencia.CategoriaJpaController.edit(CategoriaJpaController.java:66)
+	at Persistencia.ControladoraPersistencia.editarCategoria(ControladoraPersistencia.java:80)
+	at Logica.ControladoraLogica.agregarTipoCategoria(ControladoraLogica.java:100)
+	at Logica.ControladoraLogica.agregarTipoCategoria(ControladoraLogica.java:117)
+	at Logica.ControladoraLogica.crearTipo(ControladoraLogica.java:81)
+	at Servlets.ControladoraVisual.crearTipo(ControladoraVisual.java:80)
+	at Servlets.CrearTipo.processRequest(CrearTipo.java:40)
+	at Servlets.CrearTipo.doPost(CrearTipo.java:86)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-6' for key 'PRIMARY'
+Error Code: 1062
+Call: INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)
+	bind => [2 parameters bound]
+Query: DataModifyQuery(name="tipos" sql="INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)")
+	at org.eclipse.persistence.exceptions.DatabaseException.sqlException(DatabaseException.java:331)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:900)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeNoSelectCall(DatasourceCallQueryMechanism.java:271)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeNoSelect(DatasourceCallQueryMechanism.java:251)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.executeNoSelect(StatementQueryMechanism.java:118)
+	at org.eclipse.persistence.queries.DataModifyQuery.executeDatabaseQuery(DataModifyQuery.java:85)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.internalExecuteQuery(AbstractSession.java:3214)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.mappings.ManyToManyMapping.insertAddedObjectEntry(ManyToManyMapping.java:637)
+	at org.eclipse.persistence.mappings.ManyToManyMapping.performDataModificationEvent(ManyToManyMapping.java:845)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:159)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithChangeSet(UnitOfWorkImpl.java:1531)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.commitRootUnitOfWork(RepeatableWriteUnitOfWork.java:277)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitAndResume(UnitOfWorkImpl.java:1169)
+	at org.eclipse.persistence.internal.jpa.transaction.EntityTransactionImpl.commit(EntityTransactionImpl.java:132)
+	... 31 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-6' for key 'PRIMARY'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1040)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4120)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4052)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2503)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2664)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2794)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2458)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2375)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2359)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	... 55 more
+
+03-Feb-2020 21:24:14.181 GRAVE [http-apr-8080-exec-14] Persistencia.ControladoraPersistencia.editarCategoria null
+ javax.persistence.RollbackException: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-7' for key 'PRIMARY'
+Error Code: 1062
+Call: INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)
+	bind => [2 parameters bound]
+Query: DataModifyQuery(name="tipos" sql="INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)")
+	at org.eclipse.persistence.internal.jpa.transaction.EntityTransactionImpl.commit(EntityTransactionImpl.java:157)
+	at Persistencia.CategoriaJpaController.edit(CategoriaJpaController.java:66)
+	at Persistencia.ControladoraPersistencia.editarCategoria(ControladoraPersistencia.java:80)
+	at Logica.ControladoraLogica.agregarTipoCategoria(ControladoraLogica.java:100)
+	at Logica.ControladoraLogica.agregarTipoCategoria(ControladoraLogica.java:117)
+	at Logica.ControladoraLogica.crearTipo(ControladoraLogica.java:81)
+	at Servlets.ControladoraVisual.crearTipo(ControladoraVisual.java:80)
+	at Servlets.CrearTipo.processRequest(CrearTipo.java:40)
+	at Servlets.CrearTipo.doPost(CrearTipo.java:86)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1152)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2527)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2516)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-7' for key 'PRIMARY'
+Error Code: 1062
+Call: INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)
+	bind => [2 parameters bound]
+Query: DataModifyQuery(name="tipos" sql="INSERT INTO CATEGORIA_TIPO (tipos_CODIGO, Categoria_CODIGO) VALUES (?, ?)")
+	at org.eclipse.persistence.exceptions.DatabaseException.sqlException(DatabaseException.java:331)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:900)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeNoSelectCall(DatasourceCallQueryMechanism.java:271)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeNoSelect(DatasourceCallQueryMechanism.java:251)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.executeNoSelect(StatementQueryMechanism.java:118)
+	at org.eclipse.persistence.queries.DataModifyQuery.executeDatabaseQuery(DataModifyQuery.java:85)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.internalExecuteQuery(AbstractSession.java:3214)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.mappings.ManyToManyMapping.insertAddedObjectEntry(ManyToManyMapping.java:637)
+	at org.eclipse.persistence.mappings.ManyToManyMapping.performDataModificationEvent(ManyToManyMapping.java:845)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:159)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithChangeSet(UnitOfWorkImpl.java:1531)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.commitRootUnitOfWork(RepeatableWriteUnitOfWork.java:277)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitAndResume(UnitOfWorkImpl.java:1169)
+	at org.eclipse.persistence.internal.jpa.transaction.EntityTransactionImpl.commit(EntityTransactionImpl.java:132)
+	... 31 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1-7' for key 'PRIMARY'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1040)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4120)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4052)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2503)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2664)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2794)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2458)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2375)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2359)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	... 55 more
+
+03-Feb-2020 21:41:32.757 INFORMACIÓN [http-apr-8080-exec-17] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 21:41:32.808 ADVERTENCIA [http-apr-8080-exec-17] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 21:41:36.745 INFORMACIÓN [http-apr-8080-exec-17] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:41:36.870 INFORMACIÓN [http-apr-8080-exec-17] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 21:41:55.927 INFORMACIÓN [http-apr-8080-exec-15] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 21:41:59.066 INFORMACIÓN [http-apr-8080-exec-15] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:41:59.084 INFORMACIÓN [50] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 21:41:59.131 INFORMACIÓN [http-apr-8080-exec-11] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 21:42:01.383 INFORMACIÓN [http-apr-8080-exec-11] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:42:01.386 INFORMACIÓN [http-apr-8080-exec-11] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 21:45:02.980 INFORMACIÓN [http-apr-8080-exec-13] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 21:45:06.894 INFORMACIÓN [http-apr-8080-exec-13] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 21:45:06.898 INFORMACIÓN [http-apr-8080-exec-13] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 23:11:35.963 INFORMACIÓN [http-apr-8080-exec-38] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 23:11:35.973 ADVERTENCIA [http-apr-8080-exec-38] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 23:11:39.069 INFORMACIÓN [http-apr-8080-exec-38] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 23:11:39.072 INFORMACIÓN [http-apr-8080-exec-38] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 23:11:39.077 INFORMACIÓN [http-apr-8080-exec-40] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 23:11:41.156 INFORMACIÓN [http-apr-8080-exec-40] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 23:11:41.162 INFORMACIÓN [http-apr-8080-exec-40] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 23:25:24.013 ADVERTENCIA [http-apr-8080-exec-52] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 23:25:26.656 INFORMACIÓN [http-apr-8080-exec-49] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 23:25:26.811 INFORMACIÓN [http-apr-8080-exec-51] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 23:25:29.375 INFORMACIÓN [http-apr-8080-exec-51] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 23:25:29.484 INFORMACIÓN [http-apr-8080-exec-51] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 23:25:33.088 INFORMACIÓN [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Falló la recarga del contexto [/SistemaDeposito]
+03-Feb-2020 23:25:33.088 INFORMACIÓN [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 23:25:35.571 INFORMACIÓN [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 23:25:35.681 INFORMACIÓN [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 23:27:38.858 INFORMACIÓN [http-apr-8080-exec-53] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 23:27:41.860 INFORMACIÓN [http-apr-8080-exec-53] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 23:27:41.969 INFORMACIÓN [123] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 23:42:49.884 INFORMACIÓN [http-apr-8080-exec-60] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 23:42:49.900 ADVERTENCIA [http-apr-8080-exec-60] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 23:42:52.711 INFORMACIÓN [http-apr-8080-exec-60] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 23:42:52.805 INFORMACIÓN [http-apr-8080-exec-60] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+03-Feb-2020 23:45:41.702 INFORMACIÓN [http-apr-8080-exec-77] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/SistemaDeposito]
+03-Feb-2020 23:45:41.718 ADVERTENCIA [http-apr-8080-exec-77] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [SistemaDeposito] registró el conductor JDBC [com.mysql.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+03-Feb-2020 23:45:44.421 INFORMACIÓN [http-apr-8080-exec-77] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+03-Feb-2020 23:45:44.514 INFORMACIÓN [http-apr-8080-exec-77] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto

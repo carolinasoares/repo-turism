@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/02/2020, 15:10:15
+    Author     : Caro
+*/
+
+@font-face {
+  font-family: 'Sriracha';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Sriracha'), local('Sriracha-Regular'), url('0nkrC9D4IuYBgWcI9NbLTwHSoQ.woff2') format('woff2'),
+       url('Merienda-Regular.ttf') format('truetype');
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Sriracha';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Sriracha'), local('Sriracha-Regular'), url('0nkrC9D4IuYBgWcI9NbQTwHSoQ.woff2') format('woff2'),
+      url('Merienda-Regular.ttf') format('truetype');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Sriracha';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Sriracha'), local('Sriracha-Regular'), url('0nkrC9D4IuYBgWcI9NbRTwHSoQ.woff2') format('woff2'),
+      url('Merienda-Regular.ttf') format('truetype');
+}
+/* latin */
+@font-face {
+  font-family: 'Sriracha';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Sriracha'), local('Sriracha-Regular'), url('0nkrC9D4IuYBgWcI9NbfTwE.woff2') format('woff2'),
+      url('Merienda-Regular.ttf') format('truetype');
+}

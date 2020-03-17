@@ -1,0 +1,17 @@
+ <!-- Script para cargar jQuery (libreria) -->
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>       
+
+ <!-- Scripts para cargar jQuery.DataTables (libreria) -->
+  <script src="https://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js" type="text/javascript"></script>  
+  
+  <!-- Css para la "facha"/"estilos" de las dataTables --> 
+        <link rel="stylesheet" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css" />  
+
+ <!-- Script que aplica la DataTable sobre la tabla que elijamos -->       
+<script type="text/javascript">  
+$(document).ready(function ()  
+{  
+    $('#nombreTabla').dataTable(  
+    {});  
+});  
+</script>  

@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/02/2020, 14:52:05
+    Author     : Caro
+*/
+
+/* latin-ext */
+@font-face {
+  font-family: 'Merienda';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Merienda'), local('Merienda-Regular'), url('gNMHW3x8Qoy5_mf8uWMLMIqK_Q.woff2') format('woff2'),
+      url('Merienda-Regular.ttf') format('truetype');
+}
+/* latin */
+@font-face {
+  font-family: 'Merienda';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Merienda'), local('Merienda-Regular'), url('gNMHW3x8Qoy5_mf8uWMFMIo.woff2') format('woff2'),
+      url('Merienda-Regular.ttf') format('truetype');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Merienda';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Merienda Bold'), local('Merienda-Bold'), url('gNMAW3x8Qoy5_mf8uWu-FZ-73MbZPA.woff2') format('woff2'),
+      url('Merienda-Bold.ttf') format('truetype');
+}
+/* latin */
+@font-face {
+  font-family: 'Merienda';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Merienda Bold'), local('Merienda-Bold'), url('gNMAW3x8Qoy5_mf8uWu-FZ-13MY.woff2') format('woff2'),accordion
+     url('Merienda-Bold.ttf') format('truetype');
+}

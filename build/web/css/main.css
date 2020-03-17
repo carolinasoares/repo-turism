@@ -1,0 +1,122 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10/02/2020, 18:09:02
+    Author     : Caro
+*/
+
+.body-reg-log{
+    background-color: #FFCD78;
+}
+
+.btn{
+    color: white;
+}
+
+.register-logo, .enlace{
+    color: #F35815;
+}
+
+.enlace:hover{
+    color: #C9501A;
+}
+
+button, .boton{
+    background-color: #F35815 !important;
+    border-color: #F35815 !important;
+}
+
+button, .boton:hover{
+    background-color: #C9501A;
+    border-color: #C9501A;
+}
+
+
+
+.card-body{
+    background-color: #FBDAAD;
+    order: 1 !important;
+}
+
+.input-reg-log, .input-group-text{
+    border-color: #FFCD78 !important;
+    background-color: white;
+}
+
+.input-reg-log{
+    border-left-style: none;
+    border-right-style: solid !important;
+    border-right-width: 1px !important;
+}
+
+.input-group-text{
+    border-right-style: none;
+    border-left-style: solid !important;
+    border-left-width: 1px !important;
+    border-radius: 5px 0 0 5px !important;
+    background-color: white !important;
+}
+
+.input-reg-log:focus{
+    border-color: #F09245 !important;
+    background-color: white;
+    border-left-style: solid !important;
+    border-left-width: 1px !important;
+    
+}
+
+.error{
+    color: red;
+    border-radius: 0 5px 5px 0 !important;
+    font-weight: normal !important;
+}
+
+#mensaje_registro_usuario, #mensaje_login_usuario, mensaje_crear_cliente, mensaje_baja_cliente{
+    margin-top: 0px;
+    height: 100%;
+    display: none;
+}
+
+#mensaje_registro_usuari_interno, #mensaje_login_usuari_interno, mensaje_crear_cliente_interno, mensaje_baja_cliente_interno{
+    background-color: #FBDAAD;
+    margin-top: 250px;
+}
+
+.icon-dashboard{
+    height: 150px;
+}
+
+.box{
+    background-color: #FFCD78;
+}
+
+.box:hover{
+    background-color: #FBDAAD;
+    cursor: pointer;
+}
+.sidebar-dark-primary{
+    background-color: #BE4802;
+}
+
+#home{
+    background-color: white;
+}
+
+.content-wrapper{
+    background-color: white;
+}
+
+.card-header{
+    background-color: #F35815 !important;
+}
+
+.card-footer{
+    background-color: #F8E0C7 !important;
+}
+
+
+
+
